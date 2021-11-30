@@ -3,7 +3,7 @@
 ## Session
 
 * Choose Nation
-* Choose Resources?
+* Choose Resources? - Determined from gamemode
 * Choose Spawn Location?
 
 ## Ingame
