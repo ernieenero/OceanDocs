@@ -2,7 +2,8 @@
 
 ...
 
-Project uses 3rd party water plugin 
-https://docs.unrealengine.com/4.26/en-US/BuildingWorlds/Water/
+Project uses 3rd party water plugin
 
-Buoyency is configured with achor points on certain assets. 
+https://github.com/wave-harmonic/crest
+
+This provides mechanics, textures, bouncy, mesh and static bouncy.
