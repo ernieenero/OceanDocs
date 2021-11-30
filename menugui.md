@@ -11,7 +11,7 @@ back option bottom left until main menu scene
 ## Settings
 
 Shaders
-Visual adjustment
+Visual adjustment (Resolution, Quality, Full Screen, Windowed, Borderless)
 Audio adjustment
 GPU Acceleration?
 FOV
