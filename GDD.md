@@ -2,7 +2,11 @@
 
 ...
 
-Project uses 3rd party water plugin 
-https://docs.unrealengine.com/4.26/en-US/BuildingWorlds/Water/
+Game objective
+-------------
+Modern Day RTS setup in early 2000s
 
-Buoyency is configured with achor points on certain assets. 
+Game provides a 3rd person top down real time camera view to command multiple units across a battlefield of 4 types.
+
+----------------
+Game Modes
