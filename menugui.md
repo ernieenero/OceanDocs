@@ -14,6 +14,9 @@ Shaders
 Visual adjustment
 Audio adjustment
 GPU Acceleration?
+FOV
+
+Controls page
 
 ## Background animation/imagery/soundtrack?
 
